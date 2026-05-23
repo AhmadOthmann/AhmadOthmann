@@ -1,5 +1,5 @@
 # Ahmed Othman
-**Dual M.Sc. Student (Mechatronics & AI in Society) @ TUM | Trustworthy Embodied AI**
+**Dual M.Sc. Student (Robotics & Human-centered AI) @ TUM | Trustworthy Embodied AI**
 
 I am a robotics and control systems engineer transitioning into embodied AI research. My focus is on the intersection of **open-ended Vision-Language-Action (VLA) models** and **deterministic control theory**. I build frameworks to quantify uncertainty and enforce hard safety constraints when deploying learned policies on physical hardware.
 
