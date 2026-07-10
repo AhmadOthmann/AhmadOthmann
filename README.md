@@ -1,32 +1,40 @@
 # Ahmed Othman
-**Dual M.Sc. Student (Robotics & Human-Centered AI) @ TUM | Trustworthy Embodied AI**
 
-I am a robotics and control systems engineer transitioning into embodied AI research. My focus is on the intersection of **open-ended Vision-Language-Action (VLA) models** and **deterministic control theory**. I build frameworks to quantify uncertainty and enforce hard safety constraints when deploying learned policies on physical hardware.
+Mechatronics engineer and M.Sc. student in **Artificial Intelligence in Society at the Technical University of Munich**, based in Munich, Germany.
 
-📫 Reach me at: [ahmad.mahmoud@tum.de](mailto:ahmad.mahmoud@tum.de) | [LinkedIn](https://linkedin.com/in/ahmedothman-)
+My background spans robotics, control systems, industrial automation, and applied machine learning. I am particularly interested in making autonomous systems more dependable by combining learned behavior with sound engineering constraints.
 
----
+## Current interests
 
-### 🔬 Research Interests
-* **Safety Verification for Learned Controllers:** Bridging Control Barrier Functions (CBFs) with neural network outputs.
-* **Uncertainty Quantification in VLA Policies:** Detecting out-of-distribution (OOD) scenarios in teleoperation and autonomous deployment.
-* **Algorithmic Auditing:** Multi-agent frameworks for evaluating hallucination and constraints in complex reasoning.
+- Robotics and autonomous systems
+- Deep learning for perception and decision-making
+- Safety and uncertainty in learned controllers
+- Human-centered and responsible AI
 
----
+## Featured project
 
-### 📌 Featured Research & Projects
+### [NGO Intelligence Dashboard](https://github.com/AhmadOthmann/ngo-intelligence-dashboard)
 
-#### 1. [Linear MPC for EV Anti-Lock Braking](LINK_TO_YOUR_REPO)
-* **Focus:** Deterministic Safety & Optimization
-* **Overview:** A MATLAB/Simulink implementation of Model Predictive Control for ABS generated for embedded hardware using `muAO-MPC`. Evaluated strictly against ISO-specified stopping-distance targets, highlighting the necessity of formal mathematical guarantees in physical automation.
+A full-stack intelligence dashboard developed for an AI-for-good hackathon. It helps small NGO teams collect and prioritize news and funding opportunities, generate summaries and recommended actions, translate relevant updates, and prepare daily briefings.
 
-#### 2. [Multi-Agent GenAI Auditor](LINK_TO_YOUR_REPO)
-* **Focus:** Algorithmic Constraints & Hallucination Mitigation
-* **Overview:** A verifiable multi-agent LLM framework designed to audit international response operations. Emphasizes formal constraints and auditing capabilities required for safety-critical text reasoning. *(1st Place, IOM x Sprints GenAI Hackathon)*
+**Stack:** Python, FastAPI, React, TanStack Start, Vite, SQLite, Docker, RSS and web ingestion, and the OpenAI Responses API with a deterministic fallback mode.
 
-#### 3. [TUM.ai Deforestation Detection](LINK_TO_YOUR_REPO)
-* **Focus:** Computer Vision & Sociotechnical Application
-* **Overview:** Satellite-based detection system evaluating deforestation metrics. Showcases the application of deep learning architectures to verify environmental compliance. *(1st Place, TUM.ai Makeathon)*
+## Technical toolkit
 
----
-*Currently building robust teleoperation infrastructure for mobile manipulators in Munich, Germany.*
+- **Programming:** Python, C/C++, MATLAB
+- **Robotics and control:** ROS/ROS 2, Gazebo, MATLAB/Simulink, model predictive control
+- **AI and machine learning:** PyTorch, TensorFlow, Keras
+- **Software and data:** FastAPI, REST APIs, React, SQLite, Docker, Git
+- **Industrial systems:** SCADA and industrial automation
+
+## Background
+
+- M.Sc. Artificial Intelligence in Society — Technical University of Munich
+- B.Sc. Mechatronics Engineering, dual degree — German University in Cairo and German International University
+- Experience in autonomy prototyping, control engineering, and industrial automation
+
+I am open to working-student and research opportunities in robotics, autonomy, and applied AI.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/ahmedothman-/)
