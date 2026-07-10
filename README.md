@@ -37,4 +37,4 @@ I am open to working-student and research opportunities in robotics, autonomy, a
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/ahmedothman-/)
+[Email](mailto:ahmad.mahmoud@tum.de) · [LinkedIn](https://www.linkedin.com/in/ahmedothman-/)
