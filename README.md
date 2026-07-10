@@ -13,11 +13,11 @@ My background spans robotics, control systems, industrial automation, and applie
 
 ## Featured project
 
-### [NGO Intelligence Dashboard](https://github.com/AhmadOthmann/ngo-intelligence-dashboard)
+### [Impact Atlas — NGO Intelligence Dashboard](https://github.com/AhmadOthmann/ngo-intelligence-dashboard)
 
-A full-stack intelligence dashboard developed for an AI-for-good hackathon. It helps small NGO teams collect and prioritize news and funding opportunities, generate summaries and recommended actions, translate relevant updates, and prepare daily briefings.
+A team-built full-stack intelligence dashboard developed for an AI-for-good hackathon. It helps small NGO teams collect and prioritize news and funding opportunities, generate summaries and recommended actions, translate relevant updates, and prepare daily briefings.
 
-**Stack:** Python, FastAPI, React, TanStack Start, Vite, SQLite, Docker, RSS and web ingestion, and the OpenAI Responses API with a deterministic fallback mode.
+**Stack:** Python, FastAPI, React, TanStack Start, Vite, SQLite, Docker, RSS and web ingestion, and the OpenAI Responses API with resilient fallback behavior.
 
 ## Technical toolkit
 
