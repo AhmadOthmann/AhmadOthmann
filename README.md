@@ -1,53 +1,41 @@
 # Ahmed Othman
 
-**Mechatronics Engineer focused on Robotics & Physical AI | TUM M.Sc. Student | Munich, Germany**
+**Mechatronics Engineer · Robotics & Physical AI · TUM M.Sc. Student**
 
-I work at the intersection of learned robot behavior, embedded mechatronics, and real-time control. My experience spans teleoperation workflows for Vision-Language-Action (VLA) experimentation, mobile manipulation, humanoid robotics, autonomous vehicles, and industrial AI.
+Munich, Germany · [LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [Email](mailto:ahmad.mahmoud@tum.de)
 
-At the Technical University of Munich, I pursue parallel M.Sc. studies in **Mechatronics, Robotics & Biomechanical Engineering** and **Artificial Intelligence in Society**. This combination shapes how I approach autonomy: rigorous at the robot and control level, while attentive to safety, governance, and societal impact.
+I build robotic systems where learned behavior meets real hardware. My work spans teleoperation and Vision-Language-Action experimentation, embedded integration, robot control, and reliable software interfaces for autonomous machines.
 
-I contribute to **RoboTUM's Forrest humanoid**, working at the interface between embedded firmware and the software stack. My recent experience includes a working-student placement in robotics and mechatronics at **RobCo**, AI and control systems at **GASCO**, and applied machine learning at **Huawei**.
+At the Technical University of Munich, I pursue M.Sc. studies in **Mechatronics, Robotics & Biomechanical Engineering** and **Artificial Intelligence in Society** in parallel. I also contribute to **RoboTUM's Forrest humanoid**, focusing on deterministic communication between embedded firmware and the higher-level robot stack.
 
-## Technical focus
+My recent experience includes a working-student placement in robotics and mechatronics at **RobCo**, AI and control systems work at **GASCO**, and applied machine learning at **Huawei**.
 
-- **Physical AI:** VLA concepts, teleoperation data workflows, Pi0 experimentation
-- **Robotics and control:** ROS, SLAM, sensor fusion, kinematics, MPC, PID, Pure Pursuit, Gazebo, MATLAB/Simulink
-- **Embedded systems:** ESP32, STM32, I2C, CAN, TinyML, deterministic real-time control
-- **Machine learning:** PyTorch, TensorFlow, CNNs, LSTMs, XGBoost, Prophet, TensorRT
-- **Software and MLOps:** Python, C++, SQL, Linux, Git, Docker, Airflow, FastAPI
+## Selected work
 
-## Featured project
+| Project | Contribution | Technologies |
+|---|---|---|
+| [Impact Atlas](https://github.com/AhmadOthmann/ngo-intelligence-dashboard) | Team-built an NGO intelligence dashboard for source ingestion, prioritization, translation, and concise briefings | FastAPI, React, SQLite, Docker, OpenAI API |
+| Forrest Humanoid - RoboTUM | Contributing to the deterministic real-time interface between embedded firmware and the higher-level robot stack | Embedded systems, real-time control |
+| VLA teleoperation workflows | Supported episode collection, validation, and replay workflows used in Pi0 experimentation | Python, data validation, teleoperation |
+| Electric-vehicle ABS | Designed and validated a linear MPC controller for the bachelor thesis | MATLAB/Simulink, MPC |
+| Humanitarian-response multi-agent system | Built a first-place team prototype for the IOM x Sprints GenAI Hackathon | LLM agents, workflow design |
 
-### [Impact Atlas - NGO Intelligence Dashboard](https://github.com/AhmadOthmann/ngo-intelligence-dashboard)
+## Engineering focus
 
-A team-built full-stack intelligence dashboard developed for an AI-for-good hackathon. Impact Atlas helps small NGO teams collect and prioritize news and funding opportunities, generate summaries and recommended actions, translate relevant updates, and prepare daily briefings.
+| Area | Technologies |
+|---|---|
+| Robotics and control | ROS / ROS 2, Gazebo, SLAM, sensor fusion, kinematics, MPC, PID |
+| Physical AI | VLA concepts, teleoperation workflows, policy experimentation |
+| Embedded systems | C++, ESP32, STM32, I2C, CAN, real-time control |
+| Machine learning | Python, PyTorch, TensorFlow, CNNs, LSTMs, XGBoost, TensorRT |
+| Software | Linux, Git, Docker, FastAPI, SQL |
 
-**Stack:** Python, FastAPI, React, TanStack Start, Vite, SQLite, Docker, RSS and web ingestion, and the OpenAI Responses API with deterministic fallback behavior.
+## Outside engineering
 
-## Selected engineering work
-
-- **Forrest Humanoid - RoboTUM:** contributing to the deterministic bridge between embedded firmware and the software stack of a tendon-driven bipedal humanoid
-- **VLA Teleoperation Workflows:** supported teleoperation data collection, validation, and replay workflows used in Pi0 experimentation
-- **Linear MPC for EV Anti-lock Braking:** designed and validated an ABS controller in MATLAB/Simulink against braking-distance targets
-- **GenAI Multi-Agent System:** built a humanitarian-response triage prototype that won first place at the IOM x Sprints GenAI Hackathon
-
-## Education and recognition
-
-- Parallel M.Sc. studies at the **Technical University of Munich**: Mechatronics, Robotics & Biomechanical Engineering and Artificial Intelligence in Society
-- B.Sc. in **Mechatronics Engineering** through the GIU-GUC dual-degree program; thesis on linear MPC for electric-vehicle ABS
-- **1st Place**, IOM x Sprints GenAI Hackathon
-- **70% Academic Merit Scholarship**, German International University
-
-## Languages
-
-Arabic (native) · English (fluent) · German (B1) · French (A2)
-
-## Beyond engineering
-
-I enjoy building FPV drones, 3D printing, custom hardware, marathon running, and restoring vintage vehicles.
+I enjoy building FPV drones, 3D printing, restoring vintage vehicles, and marathon running.
 
 ## Contact
 
-I am open to working-student and research opportunities in robotics, autonomy, Physical AI, and embedded intelligence.
+I am based in Munich and open to working-student, research, and engineering opportunities in robotics, autonomy, Physical AI, and embedded intelligence.
 
-[Email](mailto:ahmad.mahmoud@tum.de) · [LinkedIn](https://www.linkedin.com/in/ahmedothman-)
+[LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [ahmad.mahmoud@tum.de](mailto:ahmad.mahmoud@tum.de)
