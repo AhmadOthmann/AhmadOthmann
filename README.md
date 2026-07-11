@@ -2,40 +2,53 @@
 
 **Mechatronics Engineer · Robotics & Physical AI · TUM M.Sc. Student**
 
-Munich, Germany · [LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [Email](mailto:ahmad.mahmoud@tum.de)
+Munich, Germany · [Portfolio](https://ahmadothmann.github.io/AhmadOthmann/) · [LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [Email](mailto:ahmad.mahmoud@tum.de)
 
-I build robotic systems where learned behavior meets real hardware. My work spans teleoperation and Vision-Language-Action experimentation, embedded integration, robot control, and reliable software interfaces for autonomous machines.
+I build robotic systems where autonomy software meets real hardware. My work spans control, embedded integration, mechanical prototyping, sensing, and reliable interfaces for autonomous machines.
 
-At the Technical University of Munich, I pursue M.Sc. studies in **Mechatronics, Robotics & Biomechanical Engineering** and **Artificial Intelligence in Society** in parallel. I also contribute to **RoboTUM's Forrest humanoid**, focusing on deterministic communication between embedded firmware and the higher-level robot stack.
+## Portfolio
 
-My recent experience includes a working-student placement in robotics and mechatronics at **RobCo**, AI and control systems work at **GASCO**, and applied machine learning at **Huawei**.
+The portfolio source is stored in [`docs/`](docs/) and deployed automatically through [GitHub Actions](.github/workflows/pages.yml).
+
+- Plain HTML, CSS and JavaScript—no proprietary runtime or backend
+- Responsive and keyboard-accessible
+- Restrictive Content Security Policy
+- No cookies, analytics, trackers, forms, third-party scripts or secrets
+- HTTPS provided by GitHub Pages
+
+### Local preview
+
+```bash
+python -m http.server 8000 --directory docs
+```
+
+Then open `http://localhost:8000`.
+
+### Deployment
+
+Every push to `main` that changes `docs/` runs the Pages workflow. The workflow uploads only the static `docs/` directory and deploys it to GitHub Pages.
 
 ## Selected work
 
-| Project | Contribution | Technologies |
+| Project | Focus | Technologies |
 |---|---|---|
-| [Impact Atlas](https://github.com/AhmadOthmann/ngo-intelligence-dashboard) | Team-built an NGO intelligence dashboard for source ingestion, prioritization, translation, and concise briefings | FastAPI, React, SQLite, Docker, OpenAI API |
-| Forrest Humanoid - RoboTUM | Contributing to the deterministic real-time interface between embedded firmware and the higher-level robot stack | Embedded systems, real-time control |
-| VLA teleoperation workflows | Supported episode collection, validation, and replay workflows used in Pi0 experimentation | Python, data validation, teleoperation |
-| Electric-vehicle ABS | Designed and validated a linear MPC controller for the bachelor thesis | MATLAB/Simulink, MPC |
-| Humanitarian-response multi-agent system | Built a first-place team prototype for the IOM x Sprints GenAI Hackathon | LLM agents, workflow design |
+| Autonomous Ackermann Vehicle | Localization, path tracking and embedded actuation | ROS, Gazebo, Raspberry Pi, IMU |
+| EV Anti-lock Braking | Linear model predictive control for wheel-slip regulation | MATLAB/Simulink, MPC |
+| Multi-Manipulator Pick & Place | Coordinated manipulation and visual localization | Robotics, ArUco, computer vision |
+| Tensegrity Rolling Robot | Cable-actuated locomotion and compliant structures | Mechanical design, control, prototyping |
+| Autonomous Irrigation | Distributed sensing and moisture-driven control | Microcontrollers, PWM, sensors |
 
 ## Engineering focus
 
-| Area | Technologies |
-|---|---|
-| Robotics and control | ROS / ROS 2, Gazebo, SLAM, sensor fusion, kinematics, MPC, PID |
-| Physical AI | VLA concepts, teleoperation workflows, policy experimentation |
-| Embedded systems | C++, ESP32, STM32, I2C, CAN, real-time control |
-| Machine learning | Python, PyTorch, TensorFlow, CNNs, LSTMs, XGBoost, TensorRT |
-| Software | Linux, Git, Docker, FastAPI, SQL |
+- **Robotics and control:** ROS/ROS2, Gazebo, SLAM, sensor fusion, MPC and PID
+- **Embedded systems:** C++, ESP32, STM32, I²C, CAN and real-time control
+- **Machine learning:** Python, PyTorch, TensorFlow and computer vision
+- **Engineering tools:** MATLAB/Simulink, CAD, Linux, Git and Docker
 
-## Outside engineering
+## Security
 
-I enjoy building FPV drones, 3D printing, restoring vintage vehicles, and marathon running.
+The published website is fully static. It does not accept or store user data. Dependencies used by the deployment workflow are maintained by GitHub; workflow permissions are limited to reading repository contents and publishing Pages artifacts.
 
 ## Contact
 
-I am based in Munich and open to working-student, research, and engineering opportunities in robotics, autonomy, Physical AI, and embedded intelligence.
-
-[LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [ahmad.mahmoud@tum.de](mailto:ahmad.mahmoud@tum.de)
+[LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [GitHub](https://github.com/AhmadOthmann) · [ahmad.mahmoud@tum.de](mailto:ahmad.mahmoud@tum.de)
