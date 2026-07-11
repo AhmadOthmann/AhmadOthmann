@@ -2,13 +2,13 @@
 
 **Mechatronics Engineer · Robotics & Physical AI · TUM M.Sc. Student**
 
-Munich, Germany · [LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [Email](mailto:ahmad.mahmoud@tum.de)
+Munich, Germany · [Portfolio](https://ahmadothmann.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [Email](mailto:ahmad.mahmoud@tum.de)
 
 I build robotic systems where learned behavior meets real hardware. My work spans teleoperation and Vision-Language-Action experimentation, embedded integration, robot control, and reliable software interfaces for autonomous machines.
 
 At the Technical University of Munich, I pursue M.Sc. studies in **Mechatronics, Robotics & Biomechanical Engineering** and **Artificial Intelligence in Society** in parallel. I also contribute to **RoboTUM's Forrest humanoid**, focusing on deterministic communication between embedded firmware and the higher-level robot stack.
 
-My recent experience includes a working-student placement in robotics and mechatronics at **RobCo**, AI and control systems work at **GASCO**, and applied machine learning at **Huawei**.
+My recent experience includes my current role as a **Robotics Mechatronics Engineer at RobCo**, AI and control systems work at **GASCO**, and applied machine learning at **Huawei**.
 
 ## Selected work
 
@@ -39,4 +39,4 @@ I enjoy building FPV drones, 3D printing, restoring vintage vehicles, and marath
 
 I am based in Munich and open to working-student, research, and engineering opportunities in robotics, autonomy, Physical AI, and embedded intelligence.
 
-[LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [ahmad.mahmoud@tum.de](mailto:ahmad.mahmoud@tum.de)
+[Portfolio](https://ahmadothmann.github.io/) · [LinkedIn](https://www.linkedin.com/in/ahmedothman-) · [ahmad.mahmoud@tum.de](mailto:ahmad.mahmoud@tum.de)
