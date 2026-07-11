@@ -14,6 +14,7 @@ My recent experience includes a working-student placement in robotics and mechat
 
 | Project | Contribution | Technologies |
 |---|---|---|
+| [Sofia Atlas Travel](https://github.com/AhmadOthmann/Sofia-Atlas-Travel) | Built a multilingual autonomous travel-sales workflow with qualification, outcome routing, secure webhook ingestion, callback scheduling, and an operator dashboard | HappyRobot, Next.js, TypeScript, AI agents, webhooks |
 | [Impact Atlas](https://github.com/AhmadOthmann/ngo-intelligence-dashboard) | Team-built an NGO intelligence dashboard for source ingestion, prioritization, translation, and concise briefings | FastAPI, React, SQLite, Docker, OpenAI API |
 | Forrest Humanoid - RoboTUM | Contributing to the deterministic real-time interface between embedded firmware and the higher-level robot stack | Embedded systems, real-time control |
 | VLA teleoperation workflows | Supported episode collection, validation, and replay workflows used in Pi0 experimentation | Python, data validation, teleoperation |
